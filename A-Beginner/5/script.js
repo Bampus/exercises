@@ -1,0 +1,1 @@
+let objektName = 1
