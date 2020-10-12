@@ -1,0 +1,1 @@
+const blommor = ["tulpan", "ros", "tagetes"]
